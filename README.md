@@ -1,4 +1,4 @@
-# TF molecule classifiation using RdKit for MLBio class.
+# Molecule classifiation using RdKit for MLBio class.
 
 To setup the environment, please run the following command:
 
